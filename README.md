@@ -4,16 +4,11 @@
 Will Allow you to use Windows 7 Help under windows 10 / 11
 it Will ask you for the path and will change the help in the registry to the selected path.
 
-Tested on Windows 11 Latest Version 
-
+Tested on windows 10 Windows 11 Pro / Home 25H2
 ## Installation ##
 
-Download the latest release and extract to a folder on your pc.
-
-## Usage ##
-
-Double click in WindowsHelp.exe and select the location and the winhlp32.exe you extracted from the .rar
-
+Extract the Releae rar to a folder then
+Execute winhelp.exe as Administrator then follow prompts
 
 Check you have downloaded the latest version if there are any issues <a href="mailto:legionslost@proton.me?subject=urltofile">legionslost@proton.me</a> 
 or you can support me via <a href="https://buymeacoffee.com/legionslost"> <img src="Media/bmc.webp" width=50 height=50> <img src="Media/qr-code.png" width="100" height="100"></a>
